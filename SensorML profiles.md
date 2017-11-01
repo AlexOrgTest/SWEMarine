@@ -191,19 +191,14 @@ PLATFORM MODELS
 > &lt;/sml:capabilities&gt;
 
 #### Vocabularies
+| List of terms:  | Minimum terms: | Status:   |
+|-----------------|----------------|-----------|
+| [W04](http://vocab.nerc.ac.uk/collection/W04/current/)|[*Operating Depth*](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0012/)|
+|                 | [*Survival Depth*](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0013/)     |           |
+|                 | [*Resolution*](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0007/)     |           |
+|                 |Sampling Rate     |           |
 
-| ### <span id="_6kc73dh8ckxj" class="anchor"><span id="_Toc485492836" class="anchor"></span></span>List of terms: | <span id="_ct25cfi73gll" class="anchor"><span id="_Toc485492837" class="anchor"></span></span>Mandatory terms: 
-                                                                                                                    --------------------------------------------------------------------------------------------------------------  | ### <span id="_4lhuxjup76fo" class="anchor"><span id="_Toc485492838" class="anchor"></span></span>Status: |
-|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| [*W04*](http://vocab.nerc.ac.uk/collection/W04/current/)[](http://vocab.nerc.ac.uk/collection/W06/current/)      | |                                                                                   |                          
-                                                                                                                    |-----------------------------------------------------------------------------------|                           
-                                                                                                                    | -   [*Operating Depth*](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0012/)                             
-                                                                                                                                                                                                                                    
-                                                                                                                     -   [*Survival Depth*](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0013/)                               
-                                                                                                                                                                                                                                    
-                                                                                                                     -   [*Resolution*](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0007/)                                   
-                                                                                                                                                                                                                                    
-                                                                                                                     -   Sampling Rate                                                                  |                           | Mandatory                                                                                                 |
+
 
 ### <span id="_llx5qbdflb00" class="anchor"><span id="_Toc485492839" class="anchor"></span></span>CHARACTERISTICS
 
@@ -251,20 +246,24 @@ PLATFORM MODELS
 
 #### Vocabularies
 
-| ### <span id="_eeqk6yav5mq3" class="anchor"><span id="_Toc485492840" class="anchor"></span></span>List of terms: | <span id="_d176n4fwaljx" class="anchor"><span id="_Toc485492841" class="anchor"></span></span>Possible terms: 
-                                                                                                                    -------------------------------------------------------------------------------------------------------------  | ### <span id="_14v26hiip489" class="anchor"><span id="_Toc485492842" class="anchor"></span></span>Status: |
-|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| [*W05*](http://vocab.nerc.ac.uk/collection/W05/current/)                                                         | [*Width*](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0004/)                                           
+| List of terms:  | Minimum terms: | Status:   |
+|-----------------|----------------|-----------|
+| [W05](http://vocab.nerc.ac.uk/collection/W05/current/)|[*Width*]((http://vocab.nerc.ac.uk/collection/W05/current/CHAR0004/)|
+|                 | [*Height *](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0003/)    |           |
+|                 | [*Weight*](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0001/)     |           |
+|                 |[*Length*](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0002/)      |           |
+    |Material      |           |
+        |[*Data Storage*](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0006/)     |           |
+
+
+                                   
                                                                                                                                                                                                                                    
-                                                                                                                    [*Height *](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0003/)                                          
+                                                                                                                                                              
                                                                                                                                                                                                                                    
-                                                                                                                    [*Weight*](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0001/)                                           
+                                                                                                                 
+                                                                                                                    
                                                                                                                                                                                                                                    
-                                                                                                                    [*Length*](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0002/)                                           
-                                                                                                                                                                                                                                   
-                                                                                                                    Material                                                                                                       
-                                                                                                                                                                                                                                   
-                                                                                                                    [*Data Storage*](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0006/)                                     | Optional                                                                                                  |
+                                                                                                                 
 
 ### <span id="_xok52toc9kae" class="anchor"><span id="_Toc485492843" class="anchor"></span></span>Contacts
 
