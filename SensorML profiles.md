@@ -102,28 +102,53 @@ PLATFORM MODELS
 >
 > &lt; /sml:identification&gt;
 
-#### Vocabularies
+#### [List of terms:]()
 
-| ### <span id="_2n6qpqn5zpj9" class="anchor"><span id="_Toc485492828" class="anchor"></span></span>List of terms: | <span id="_ul2du27vyvgl" class="anchor"><span id="_Toc485492829" class="anchor"></span></span>Minimum terms: 
-                                                                                                                    ------------------------------------------------------------------------------------------------------------  | ### <span id="_88g4mf4opa44" class="anchor"><span id="_Toc485492830" class="anchor"></span></span>Status: |
-|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| [*W07*](http://vocab.nerc.ac.uk/collection/W07/current/)                                                         | |     |                                                                             |                        
-                                                                                                                    |-----|-----------------------------------------------------------------------------|                         
-                                                                                                                    |     | [*Model name *](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0003/)                             
-                                                                                                                                                                                                                                  
-                                                                                                                           [*Model number*](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0004/)                             
-                                                                                                                                                                                                                                  
-                                                                                                                           [*Manufacturer *](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0012/)                            
-                                                                                                                                                                                                                                  
-                                                                                                                           [*UUID*](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0007/)                                     
-                                                                                                                                                                                                                                  
-                                                                                                                           [*Unique ID*](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0008/)                                
-                                                                                                                                                                                                                                  
-                                                                                                                           [](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0007/)                                           
-                                                                                                                                                                                                                                  
-                                                                                                                           |     |                                                                                                
-                                                                                                                           |-----|                                                                                                
-                                                                                                                           |     |                                                                      |                         | Mandatory                                                                                                 |
+ 
+
+ 
+
+### [Minimum terms:]()
+
+ 
+
+ 
+
+#### [Status:]()
+
+ 
+
+ 
+
+[]()[]()[W07](http://vocab.nerc.ac.uk/collection/W07/current/)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Model name ](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0003/)
+
+[Model number](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0004/)
+
+[Manufacturer ](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0012/)
+
+[UUID](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0007/)
+
+[Unique ID](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0008/)
+
+ 
+
+ 
+
+ 
+
+Mandatory     |
 
 ### <span id="_l0e829l8f9yg" class="anchor"><span id="_Toc485492831" class="anchor"></span></span>CLASSIFICATION
 
