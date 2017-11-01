@@ -248,12 +248,12 @@ PLATFORM MODELS
 
 | List of terms:  | Minimum terms: | Status:   |
 |-----------------|----------------|-----------|
-| [W05](http://vocab.nerc.ac.uk/collection/W05/current/)|[*Width*]((http://vocab.nerc.ac.uk/collection/W05/current/CHAR0004/)|
-|                 | [*Height *](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0003/)    |           |
-|                 | [*Weight*](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0001/)     |           |
-|                 |[*Length*](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0002/)      |           |
-    |Material      |           |
-        |[*Data Storage*](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0006/)     |           |
+| [W05](http://vocab.nerc.ac.uk/collection/W05/current/)|[Width](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0004/)|Optional|
+|                 | [Height](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0003/)    |           |
+|                 | [Weight](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0001/)     |           |
+|                 |[Length](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0002/)      |           |
+|                  |Material      |           |
+|        |[*Data Storage*](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0006/)     |           |
 
 
                                    
