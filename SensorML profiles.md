@@ -105,7 +105,7 @@ PLATFORM MODELS
 ### Vocabularies
 | List of terms:  | Minimum terms: | Status:   |
 |-----------------|----------------|-----------|
-| W07             | Model name     | Mandatory |
+| W07             | [Model name ](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0003/)     | Mandatory |
 |                 | Model number   |           |
 |                 | Manufacturer   |           |
 |                 | UUID           |           |
