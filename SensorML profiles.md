@@ -106,10 +106,10 @@ PLATFORM MODELS
 | List of terms:  | Minimum terms: | Status:   |
 |-----------------|----------------|-----------|
 | W07             | [Model name ](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0003/)     | Mandatory |
-|                 | Model number   |           |
-|                 | Manufacturer   |           |
-|                 | UUID           |           |
-|                 | UniqueID       |           |
+|                 | [Model number](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0004/)   |           |
+|                 | [Manufacturer ](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0012/)   |           |
+|                 | [UUID](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0007/)           |           |
+|                 | [Unique ID](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0008/)|           |
 
 ### <span id="_l0e829l8f9yg" class="anchor"><span id="_Toc485492831" class="anchor"></span></span>CLASSIFICATION
 
