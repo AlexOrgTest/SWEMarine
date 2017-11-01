@@ -139,7 +139,6 @@ PLATFORM MODELS
 | List of terms:  | Minimum terms: | Status:   |
 |-----------------|----------------|-----------|
 | [W06](http://vocab.nerc.ac.uk/collection/W06/current/)| [Platform type](http://vocab.nerc.ac.uk/collection/W06/current/CLSS0001/)      | Mandatory |
-
 |                 | Application Domain    |           |
 
 
