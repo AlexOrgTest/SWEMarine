@@ -136,19 +136,14 @@ PLATFORM MODELS
 > &lt;/sml:classification&gt;
 
 #### Vocabularies
+| List of terms:  | Minimum terms: | Status:   |
+|-----------------|----------------|-----------|
+| [W06](http://vocab.nerc.ac.uk/collection/W06/current/)| [Platform type](http://vocab.nerc.ac.uk/collection/W06/current/CLSS0001/)      | Mandatory |
 
-| ### <span id="_u4m36eljoez8" class="anchor"><span id="_Toc485492832" class="anchor"></span></span>List of terms: | <span id="_8927mgpc6knu" class="anchor"><span id="_Toc485492833" class="anchor"></span></span>Candidate terms: 
-                                                                                                                    --------------------------------------------------------------------------------------------------------------  | ### <span id="_oxzyw4xysk80" class="anchor"><span id="_Toc485492834" class="anchor"></span></span>Status: |
-|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| [*W06*](http://vocab.nerc.ac.uk/collection/W06/current/)                                                         | |     |                                                                                  |                     
-                                                                                                                    |-----|----------------------------------------------------------------------------------|                      
-                                                                                                                    |     | -   [*Platform type *](http://vocab.nerc.ac.uk/collection/W06/current/CLSS0001/)                        
-                                                                                                                                                                                                                                    
-                                                                                                                           -   Application Domain                                                                                   
-                                                                                                                                                                                                                                    
-                                                                                                                           |     |                                                                                                  
-                                                                                                                           |-----|                                                                                                  
-                                                                                                                           |     |                                                                           |                      | Mandatory                                                                                                 |
+|                 | Application Domain    |           |
+
+
+
 
 ### <span id="_qepzmqbra3l7" class="anchor"><span id="_Toc485492835" class="anchor"></span></span>CAPABILITIES
 
