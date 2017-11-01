@@ -1771,7 +1771,7 @@ REFERENCES
 2.  S. Jirka, "Marine Profiles for OGC Sensor Web Enablement Standard",
     in EGU General Assembly, Vienna, 2016, p. 14690
 
-3.  Kokkinaki, Alexandra et al. “Semantically enhancing SensorML with
-    Controlled Vocabularies in the Marine Domain.” (2016).
+3.  Kokkinaki, Alexandra et al. [“Semantically enhancing SensorML with
+    Controlled Vocabularies in the Marine Domain.” (2016).](http://ceur-ws.org/Vol-1762/Kokkinaki.pdf)
 
 
