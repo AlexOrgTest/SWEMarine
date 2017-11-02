@@ -660,7 +660,7 @@ href="http://linkedsystems.uk/system/instance/TOOLYSI_1234/"/&gt;
 href="http://linkedsystems.uk/system/instance/TOOL0969_55555/"/&gt;
 
 &lt;component
-href="http://linkedsystems.uk/system/instance/TOOL0969\_9898989/"/&gt;
+href="http://linkedsystems.uk/system/instance/TOOL0969_9898989/"/&gt;
 
 &lt;component
 href="http://linkedsystems.uk/system/instance/TOOLYSI_789-654-123/"/&gt;
@@ -1725,7 +1725,7 @@ REFERENCES
 ----------
 
 1.  Portal.opengeospatial.org, 2016.
-    \[Online\]. Available:http://portal.opengeospatial.org/files/?artifact\_id=21273.
+    \[Online\]. Available:http://portal.opengeospatial.org/files/?artifact_id=21273.
     \[Accessed: 31-Jul- 2016\]
 
 2.  S. Jirka, "Marine Profiles for OGC Sensor Web Enablement Standard",
