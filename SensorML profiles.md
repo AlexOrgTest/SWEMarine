@@ -648,22 +648,22 @@ class="anchor"></span></span>
 &lt;ComponentList&gt;
 
 &lt;component
-href="http://linkedsystems.uk/system/instance/TOOL0969\_1234/"/&gt;
+href="http://linkedsystems.uk/system/instance/TOOL0969_1234/"/&gt;
 
 &lt;component
-href="http://linkedsystems.uk/system/instance/TOOLYSI\_89325698/"/&gt;
+href="http://linkedsystems.uk/system/instance/TOOLYSI_89325698/"/&gt;
 
 &lt;component
-href="http://linkedsystems.uk/system/instance/TOOLYSI\_1234/"/&gt;
+href="http://linkedsystems.uk/system/instance/TOOLYSI_1234/"/&gt;
 
 &lt;component
-href="http://linkedsystems.uk/system/instance/TOOL0969\_55555/"/&gt;
+href="http://linkedsystems.uk/system/instance/TOOL0969_55555/"/&gt;
 
 &lt;component
 href="http://linkedsystems.uk/system/instance/TOOL0969\_9898989/"/&gt;
 
 &lt;component
-href="http://linkedsystems.uk/system/instance/TOOLYSI\_789-654-123/"/&gt;
+href="http://linkedsystems.uk/system/instance/TOOLYSI_789-654-123/"/&gt;
 
 &lt;/ComponentList&gt;
 
@@ -980,11 +980,11 @@ SENSOR MODELS
 
 #### Vocabularies
 
-| <span id="_Toc485492862" class="anchor"></span>List of terms: | <span id="_Toc485492863" class="anchor"></span>Minimum terms:                        | <span id="_Toc485492864" class="anchor"></span>Status: |
-|---------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------|
-| [W07](http://vocab.nerc.ac.uk/collection/W07/current/)        | |     |                                                                            | 
-                                                                 |-----|----------------------------------------------------------------------------|  
-                                                                 |     | [Model name](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0003/) -      
+
+
+| List of terms: |Minimum terms:                        |Status: |
+|----------------|--------------------------------------|--------|
+| [W07](http://vocab.nerc.ac.uk/collection/W07/current/)|        |Mandatory|                                                            |     | [Model name](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0003/)      
                                                                                                                                                        
                                                                         [Model number](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0004/) -     
                                                                                                                                                        
@@ -1148,7 +1148,7 @@ SENSOR MODELS
 
 #### <span id="_tiue72x5hzxx" class="anchor"><span id="_q679h3g3kdrl" class="anchor"><span id="_qkas6iw9it9k" class="anchor"></span></span></span>Vocabularies
 
-| <span id="_Toc485492874" class="anchor"></span>List of terms: | <span id="_Toc485492875" class="anchor"></span>Possible terms:           | <span id="_Toc485492876" class="anchor"></span>Status: |
+| List of terms: | Possible terms:           | <span id="_Toc485492876" class="anchor"></span>Status: |
 |---------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------|
 | *W05*                                                         | [Width](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0004/)        
                                                                                                                                            
@@ -1244,7 +1244,7 @@ SENSOR MODELS
 
 | List of terms from G04 for roles:                                                                    | Status:  |
 |------------------------------------------------------------------------------------------------------|----------|
-| [*http://vocab.nerc.ac.uk/collection/G04/current/*](http://vocab.nerc.ac.uk/collection/G04/current/) | Optional |
+| [G04](http://vocab.nerc.ac.uk/collection/G04/current/) | Optional |
 
 ### Documentation
 
@@ -1473,7 +1473,7 @@ SENSOR INSTANCES
 
 | List of terms: | Status:  |
 |----------------|----------|
-| *W06*          | Optional |
+| [W06](http://vocab.nerc.ac.uk/collection/W06/current/)          | Optional |
 
 ### CHARACTERISTICS (Additional characteristics diff from model)
 
@@ -1519,9 +1519,9 @@ SENSOR INSTANCES
 >
 > &lt;/characteristics&gt;
 
-| <span id="_Toc485492888" class="anchor"></span>List of terms: | <span id="_Toc485492889" class="anchor"></span>Status: |
-|---------------------------------------------------------------|--------------------------------------------------------|
-| *W05*                                                         | Optional                                               |
+| List of terms: | Status: |
+|----------------|---------|
+| [W05](http://vocab.nerc.ac.uk/collection/W05/current/)           | Optional|
 
 ### CONTACTS (Additional contacts specific to the instance)
 
@@ -1604,7 +1604,7 @@ SENSOR INSTANCES
 
 | List of terms for the role:   | Status:     |
 |-------------------------------|-------------|
-| *G08*                         | Mandatory   |
+| [G08](http://vocab.nerc.ac.uk/collection/G08/current/)                         | Mandatory   |
 
 ###  POSITION (only relative position to the platform)
 
@@ -1749,7 +1749,7 @@ xlink:href="http://vocab.nerc.ac.uk/collection/P06/current/UPOX"/&gt;
 
 | List of terms:   | Status:     |
 |------------------|-------------|
-| *W03*            | Mandatory   |
+| [W03](http://vocab.nerc.ac.uk/collection/W03/current/)            | Mandatory   |
 
 REFERENCES
 ----------
