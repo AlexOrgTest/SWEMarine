@@ -1129,19 +1129,15 @@ SENSOR MODELS
 #### <span id="_tiue72x5hzxx" class="anchor"><span id="_q679h3g3kdrl" class="anchor"><span id="_qkas6iw9it9k" class="anchor"></span></span></span>Vocabularies
 
 | List of terms: | Possible terms:           | <span id="_Toc485492876" class="anchor"></span>Status: |
-|---------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------|
-| *W05*                                                         | [Width](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0004/)        
-                                                                                                                                           
-                                                                 [Height](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0003/)        
-                                                                                                                                           
-                                                                 [Weight](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0001/)        
-                                                                                                                                           
-                                                                 [Lenght](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0002/)        
-                                                                                                                                           
-                                                                 Material                                                                  
-                                                                                                                                           
-                                                                 [Data Storage](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0006/)  | Optional                                               |
-
+|----------------|---------------------------|--------------------------------------------------------|
+| |[W05](http://vocab.nerc.ac.uk/collection/W05/current/)|     |Optional |
+|                |[Width](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0004/)|                  |    
+|                |[Height](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0003/)|                  |    
+|                |[Weight](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0001/)|                  |    
+|                |[Lenght](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0002/)|                  |    
+|                |[Data Storage](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0006/)|            |    
+|                |Material                                                          |                  |    
+                                                                                                                                                                               
 ### Contacts
 
 #### Code style
@@ -1368,19 +1364,13 @@ SENSOR INSTANCES
 
 #### Vocabularies
 
-| <span id="_Toc485492882" class="anchor"></span>List of terms: | <span id="_Toc485492883" class="anchor"></span>Mandatory terms:                        | <span id="_Toc485492884" class="anchor"></span>Status: |
-|---------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------------------------------------------------|
-| *W07*                                                         | |     |                                                                              | 
-                                                                 |-----|------------------------------------------------------------------------------|  
-                                                                 |     | [*Unique ID*](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0008/),        
-                                                                                                                                                         
-                                                                        [*Serial Number*](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0005/),     
-                                                                                                                                                         
-                                                                        [*UUID*](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0007/)               
-                                                                                                                                                         
-                                                                        [LongName](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0002/)             
-                                                                                                                                                         
-                                                                        [ShortName](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0006/)         |  | Mandatory                                              |
+| List of terms:  | Minimum terms: | Status:   |
+|-----------------|----------------|-----------|
+|[W07](http://vocab.nerc.ac.uk/collection/W07/current/)|[ICES CODE ](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0001/)| Mandatory|
+|                 | [UniqueID](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0008/)|         |
+|                 | [Serialnumber](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0005/)|                             |           |                   | [LongName](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0002/) |         |                                   |                 | [ShortName](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0006/)|         |  
+|                 | [UUID](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0007/)|         |  
+                                                                                          |
 
 ### KEYWORDS (Keywords can include the sensor outputs from P01)
 
