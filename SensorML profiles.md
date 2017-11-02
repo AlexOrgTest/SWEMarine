@@ -425,10 +425,10 @@ OperationsManual&lt;/CharacterString&gt;&lt;/description&gt;
 | List of terms:  | Minimum terms: | Status:   |
 |-----------------|----------------|-----------|
 |[W07](http://vocab.nerc.ac.uk/collection/W07/current/)|[ICES CODE ](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0001/)| Mandatory|
-|                 | [CALLSIGN] (http://vocab.nerc.ac.uk/collection/W07/current/IDEN0010/)|                                      |       
-|                 | [WMO_PLATFORM_NUMBER] (http://vocab.nerc.ac.uk/collection/W07/current/IDEN0009/)|           |
-|                 | [UniqueID] (http://vocab.nerc.ac.uk/collection/W07/current/IDEN0008/)|         |
-|                 | [Serialnumber] (http://vocab.nerc.ac.uk/collection/W07/current/IDEN0005/)|                             |           |                 | [LongName](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0002/) |         |                                   |                 | [ShortName](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0006/)|         |  
+|                 | [CALLSIGN](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0010/)|                                      |       
+|                 | [WMO](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0009/)|           |
+|                 | [UniqueID](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0008/)|         |
+|                 | [Serialnumber](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0005/)|                             |           |                   | [LongName](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0002/) |         |                                   |                 | [ShortName](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0006/)|         |  
 |                 | [UUID](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0007/)|         |  
 
 ### <span id="_kfyje2tdxpda" class="anchor"><span id="_Toc485492850" class="anchor"></span></span>KEYWORDS
