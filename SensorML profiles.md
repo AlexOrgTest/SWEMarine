@@ -545,7 +545,7 @@ OperationsManual&lt;/CharacterString&gt;&lt;/description&gt;
 
 #### Vocabularies
 
-| <span id="_Toc485492853" class="anchor"></span>List of terms: | <span id="_nijxv0e85z0f" class="anchor"><span id="_xz4js03psiqm" class="anchor"><span id="_Toc485492854" class="anchor"></span></span></span>Status: |
+| List of terms: | Status: |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [W05](http://vocab.nerc.ac.uk/collection/W05/current/)        | Optional                                                                                                                                             |
 
@@ -980,25 +980,14 @@ SENSOR MODELS
 
 #### Vocabularies
 
-
-
-| List of terms: |Minimum terms:                        |Status: |
-|----------------|--------------------------------------|--------|
-| [W07](http://vocab.nerc.ac.uk/collection/W07/current/)|        |Mandatory|                                                            |     | [Model name](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0003/)      
-                                                                                                                                                       
-                                                                        [Model number](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0004/) -     
-                                                                                                                                                       
-                                                                        [Manufacturer](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0012/)       
-                                                                                                                                                       
-                                                                        [UUID](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0007/)               
-                                                                                                                                                       
-                                                                        Or                                                                             
-                                                                                                                                                       
-                                                                        [Unique ID](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0008/)          
-                                                                                                                                                       
-                                                                        |     |                                                                        
-                                                                        |-----|                                                                        
-                                                                        |     |                                                                     |  | Mandatory                                              |
+### Vocabularies
+| List of terms:  | Minimum terms: | Status:   |
+|-----------------|----------------|-----------|
+| W07             | [Model name ](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0003/)     | Mandatory |
+|                 | [Model number](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0004/)   |           |
+|                 | [Manufacturer ](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0012/)   |           |
+|                 | [UUID](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0007/)           |           |
+|                 | [Unique ID](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0008/)|           |
 
 ### CLASSIFICATION
 
@@ -1027,11 +1016,12 @@ SENSOR MODELS
 
 #### Vocabularies
 
-| <span id="_Toc485492866" class="anchor"></span>List of terms:   | <span id="_Toc485492867" class="anchor"></span>Candidate terms:                  | <span id="_Toc485492868" class="anchor"></span>Status:   |
-|-----------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------|
-| [W06](http://vocab.nerc.ac.uk/collection/W06/current/)          | -   [Instrument type](http://vocab.nerc.ac.uk/collection/W06/current/CLSS0002/)- 
-                                                                                                                                                     
-                                                                   -   Application Domain                                                            | Mandatory                                                |
+#### Vocabularies
+| List of terms:  | Minimum terms: | Status:   |
+|-----------------|----------------|-----------|
+| [W06](http://vocab.nerc.ac.uk/collection/W06/current/)|[Instrument type](http://vocab.nerc.ac.uk/collection/W06/current/CLSS0002/)|
+|                 |Application Domain     |           |
+
 
 ### CAPABILITIES
 
