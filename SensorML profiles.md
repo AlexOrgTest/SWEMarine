@@ -349,7 +349,7 @@ PLATFORM MODELS
 
 | List of terms for roles from [*G04*](http://vocab.nerc.ac.uk/collection/G04/current/): | Status:  |
 |----------------------------------------------------------------------------------------|----------|
-| [](http://vocab.nerc.ac.uk/collection/G04/current/)                                    | Optional |
+| [G04](http://vocab.nerc.ac.uk/collection/G04/current/)                                    | Optional |
 
 ### <span id="_iapljiq8q5mb" class="anchor"><span id="_Toc485492844" class="anchor"></span></span>Documentation
 
@@ -406,7 +406,7 @@ OperationsManual&lt;/CharacterString&gt;&lt;/description&gt;
 > &lt;identifier&gt;
 >
 > &lt;Term
-> definition="http://vocab.nerc.ac.uk/collection/W07/current/IDEN0009/"&gt;
+> definition="http://vocab.nerc.ac.uk/collection/current/IDEN0009/"&gt;
 >
 > &lt;label&gt;WMO platform number&lt;/label&gt;
 >
@@ -422,24 +422,18 @@ OperationsManual&lt;/CharacterString&gt;&lt;/description&gt;
 
 #### Vocabularies
 
-|                                                                                                                  |                                                                                                                                                                                                                     |                                                                                                           |
-|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| <span id="_5mkvm6g8tq8f" class="anchor"><span id="_Toc485492847" class="anchor"></span></span>**List of terms:** | <span id="_819gcpo9lxxe" class="anchor"><span id="_Toc485492848" class="anchor"></span></span>**Mandatory terms:**                                                                                                  | <span id="_ckkglmgvas5y" class="anchor"><span id="_Toc485492849" class="anchor"></span></span>**Status:** |
-| [*W07*](http://vocab.nerc.ac.uk/collection/W07/current/)                                                         | -   [**ICES CODE**](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0001/)[](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0001/)                                                                           
+| List of terms:  | Minimum terms: | Status:   |
+|-----------------|----------------|-----------|
+|[W07](http://vocab.nerc.ac.uk/collection/W07/current/)|[ICES CODE ](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0001/)| Mandatory|
+|                 | [CALLSIGN] (http://vocab.nerc.ac.uk/collection/W07/current/IDEN0010/)|                                      |       
+|                 | [WMO PLATFORM NUMBER] (http://vocab.nerc.ac.uk/collection/W07/current/IDEN0009/)  |           |
+|                 | [Unique ID] (http://vocab.nerc.ac.uk/collection/W07/current/IDEN0008/)|           |
+|                 | [Serial number] (http://vocab.nerc.ac.uk/collection/W07/current/IDEN0005/)|                             |           |                 | [Long Name](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0002/) |         |                                   |                 | [Short Name](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0006/)|         |  
+|                 | [UUID](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0007/)|         |  
                                                                                                                                                                                                                                                                                                                                          
-                                                                                                                    -   [***CALLSIGN ***](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0010/)                                                                                                                                      
+                                                                                                                    -                                                                                                                                        
                                                                                                                                                                                                                                                                                                                                          
-                                                                                                                    -   [*WMO*](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0009/)[ ***PLATFORM NUMBER***](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0009/)[](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0009/)  
-                                                                                                                                                                                                                                                                                                                                         
-                                                                                                                    -   [***Unique ID***](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0008/)                                                                                                                                      
-                                                                                                                                                                                                                                                                                                                                         
-                                                                                                                    -   [***Serial number***](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0005/)                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                                         
-                                                                                                                    -   [***UUID***](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0007/)[](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0007/)                                                                               
-                                                                                                                                                                                                                                                                                                                                         
-                                                                                                                    -   [***Long Name***](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0002/)                                                                                                                                      
-                                                                                                                                                                                                                                                                                                                                         
-                                                                                                                    -   [***Short Name***](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0006/)                                                                                                                                     | Mandatory                                                                                                 |
+                                                                                                                    -                                                                                                                                       
 
 ### <span id="_kfyje2tdxpda" class="anchor"><span id="_Toc485492850" class="anchor"></span></span>KEYWORDS
 
