@@ -1071,26 +1071,17 @@ SENSOR MODELS
 
 #### Vocabularies
 
-| <span id="_Toc485492870" class="anchor"></span>List of terms: | <span id="_Toc485492871" class="anchor"></span>Any of the following:          | <span id="_Toc485492872" class="anchor"></span>Status: |
-|---------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------|
-| [*W04*](http://vocab.nerc.ac.uk/collection/W06/current/)      | |                                                                           | 
-                                                                 |---------------------------------------------------------------------------|  
-                                                                 | [*Resolution*](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0007/)     
-                                                                                                                                                
-                                                                  **Sampling Rate** –                                                           
-                                                                                                                                                
-                                                                  *Sensitivity*                                                                 
-                                                                                                                                                
-                                                                  Selectivity -                                                                 
-                                                                                                                                                
-                                                                  [*Selectivity*](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0010/)     
-                                                                                                                                                
-                                                                  [*Accuracy*](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0001/)        
-                                                                  [Frequency](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0003)          
-                                                                                                                                                
-                                                                  [*Latency*](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0004/)      |  | Mandatory                                              |
+| List of terms:  | Minimum terms: | Status:   |
+|-----------------|----------------|-----------|
+| [W04](http://vocab.nerc.ac.uk/collection/W04/current/)|[*Resolution*](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0007/)|
+|                 | [Selectivity](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0010/)         |           |
+|                 | [Sensitivity](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0009/)         |           |
 
-<span id="_o9a8g4tvdm6" class="anchor"></span>
+|                 | [Accuracy](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0001/)     |           |
+|                 | [Frequency](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0003)|     |
+|                 | [*Latency*](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0004/)|    | 
+|                 |*Sampling Rate*    |           |
+
 
 ### CHARACTERISTICS
 
