@@ -1076,7 +1076,6 @@ SENSOR MODELS
 | [W04](http://vocab.nerc.ac.uk/collection/W04/current/)|[*Resolution*](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0007/)|
 |                 | [Selectivity](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0010/)         |           |
 |                 | [Sensitivity](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0009/)         |           |
-
 |                 | [Accuracy](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0001/)     |           |
 |                 | [Frequency](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0003)|     |
 |                 | [*Latency*](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0004/)|    | 
