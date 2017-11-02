@@ -426,14 +426,10 @@ OperationsManual&lt;/CharacterString&gt;&lt;/description&gt;
 |-----------------|----------------|-----------|
 |[W07](http://vocab.nerc.ac.uk/collection/W07/current/)|[ICES CODE ](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0001/)| Mandatory|
 |                 | [CALLSIGN] (http://vocab.nerc.ac.uk/collection/W07/current/IDEN0010/)|                                      |       
-|                 | [WMO PLATFORM NUMBER] (http://vocab.nerc.ac.uk/collection/W07/current/IDEN0009/)  |           |
-|                 | [Unique ID] (http://vocab.nerc.ac.uk/collection/W07/current/IDEN0008/)|           |
-|                 | [Serial number] (http://vocab.nerc.ac.uk/collection/W07/current/IDEN0005/)|                             |           |                 | [Long Name](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0002/) |         |                                   |                 | [Short Name](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0006/)|         |  
+|                 | [WMO_PLATFORM_NUMBER] (http://vocab.nerc.ac.uk/collection/W07/current/IDEN0009/)|           |
+|                 | [UniqueID] (http://vocab.nerc.ac.uk/collection/W07/current/IDEN0008/)|         |
+|                 | [Serialnumber] (http://vocab.nerc.ac.uk/collection/W07/current/IDEN0005/)|                             |           |                 | [LongName](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0002/) |         |                                   |                 | [ShortName](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0006/)|         |  
 |                 | [UUID](http://vocab.nerc.ac.uk/collection/W07/current/IDEN0007/)|         |  
-                                                                                                                                                                                                                                                                                                                                         
-                                                                                                                    -                                                                                                                                        
-                                                                                                                                                                                                                                                                                                                                         
-                                                                                                                    -                                                                                                                                       
 
 ### <span id="_kfyje2tdxpda" class="anchor"><span id="_Toc485492850" class="anchor"></span></span>KEYWORDS
 
